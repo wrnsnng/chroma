@@ -86,6 +86,10 @@
       "1200": {
         "value": "80px",
         "type": "spacing"
+      },
+      "130000000": {
+        "value": "160px",
+        "type": "spacing"
       }
     },
     "borderWidth": {
