@@ -1,4 +1,9 @@
 {
+  "objectStyles": {
+    "1300": {
+      "value": "160",
+      "type": "spacing"
+    },
     "borderRadius": {
       "0": {
         "value": "0px",
@@ -1080,3 +1085,4 @@
       }
     }
   }
+}
